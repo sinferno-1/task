@@ -8,12 +8,12 @@ Event Database: {createdBy
     joinedBy:,
     status: { 'active' or 'cancelled'}
     
- #   Authentication by: JWT
+   Authentication by: JWT
  
- # Frontend Login/SignUp: by HTML, CSS, Bootstrap
- # Frontend Event Page: Tailwind CSS
+  Frontend Login/SignUp: by HTML, CSS, Bootstrap
+  Frontend Event Page: Tailwind CSS
  
- # API defined as in folders
+  API defined as in folders
  
  
  
